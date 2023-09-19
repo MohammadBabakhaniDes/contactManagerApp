@@ -1,0 +1,32 @@
+@media screen and (max-width: 767.98px) { 
+     /* .mamad {
+         width: 800px !important;
+        height: 200px !important; 
+     }  */
+
+    .centerelem {
+        position: relative;
+        right: 60px;
+        max-width: 80vw !important;
+    }
+
+    .buttonsize {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .buttonsize {
+        width: 70VW !important;
+    }
+
+    .mamad {
+        /* height: 30vh !important; */
+        width: 800px !important;
+        height: 300px !important;
+    }
+}
+
+.marbottom {
+    margin-bottom: 20px;
+}
