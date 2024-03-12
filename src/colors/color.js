@@ -1,0 +1,11 @@
+export const blue = "#2196f3";
+export const red = "#f50057";
+export const liver = "#54001e"; // jegari
+export const purple = "#5e00e5";
+export const darkblue = "#3f51b5";
+export const amber = "#ffc107";
+export const lightgreen = "#c6ff00";
+export const yellow = "#ffea00";
+export const lajanigreen = "#8ab200";
+export const lightblue = "#33eaff";
+export const backgroundcardblue = "#6f84b8";

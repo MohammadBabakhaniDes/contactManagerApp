@@ -1,0 +1,9 @@
+import { default as AddContact } from "./Contact/AddContact";
+import { default as Contact } from "./Contact/Contact";
+import { default as Contacts } from "./Contact/Contacts";
+import { default as EditContact } from "./Contact/EditContact";
+import { default as SearchContact } from "./Contact/SearchContact";
+import { default as ViewContact } from "./Contact/ViewContact";
+import { default as Navbar } from "./Navbar";
+import { default as NotFound } from "./NotFound";
+import { default as Spinner } from "./Spinner";
